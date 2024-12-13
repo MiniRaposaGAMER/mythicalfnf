@@ -31,11 +31,11 @@ class Achievements {
 	public static function init()
 	{
 		createAchievement('friday_night_play',		{name: "Freaky on a Friday Night", description: "Play on a Friday... Night.", hidden: true});
-		createAchievement('week1_nomiss',			{name: "She Calls Me Daddy Too", description: "Beat Week 1 on Hard with no Misses."});
-		createAchievement('week2_nomiss',			{name: "No More Tricks", description: "Beat Week 2 on Hard with no Misses."});
-		createAchievement('week3_nomiss',			{name: "Call Me The Hitman", description: "Beat Week 3 on Hard with no Misses."});
-		createAchievement('week4_nomiss',			{name: "Lady Killer", description: "Beat Week 4 on Hard with no Misses."});
-		createAchievement('week5_nomiss',			{name: "Missless Christmas", description: "Beat Week 5 on Hard with no Misses."});
+		createAchievement('ashtar_nomiss',			{name: "A Chegada da Frota Estelar", description: "Beat Lunar Spirit on Hard with no Misses."});
+		createAchievement('halfcat_nomiss',			{name: "Someone said Cheese?", description: "Beat Cheese on Hard with no Misses."});
+		createAchievement('ningen_nomiss',			{name: "Why the Ice Creature spitting bars tho", description: "Beat Ningen on Hard with no Misses."});
+		createAchievement('pukeko_nomiss',			{name: "DAMN!!!", description: "Beat Menace on Hard with no Misses."});
+		createAchievement('strawberryelephant_nomiss',			{name: "God Defeater", description: "Beat Strawberry Morning on Hard with no Misses."});
 		createAchievement('week6_nomiss',			{name: "Highscore!!", description: "Beat Week 6 on Hard with no Misses."});
 		createAchievement('week7_nomiss',			{name: "God Effing Damn It!", description: "Beat Week 7 on Hard with no Misses."});
 		createAchievement('ur_bad',					{name: "What a Funkin' Disaster!", description: "Complete a Song with a rating lower than 20%."});
